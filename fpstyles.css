@@ -39,6 +39,9 @@ h2 {
   display: flex;
   justify-content: center;
 }
+.home-image {
+  margin-right: 10px
+}
 .site-menu {
   list-style: none;
   padding: 0;
