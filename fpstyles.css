@@ -37,10 +37,7 @@ h2 {
 }
 .book-series {
   display: flex;
-  justify-content: space-around;
-}
-.home-image {
-  margin-right: 10px
+  justify-content: space-between;
 }
 .site-menu {
   list-style: none;
