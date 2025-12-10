@@ -37,6 +37,7 @@ h2 {
 }
 .book-series {
   display: flex;
+  padding-left: 0px;
 }
 .home-image {
   margin-right: 10px;
