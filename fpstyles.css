@@ -39,8 +39,7 @@ h2 {
   display: flex;
 }
 .home-image {
-  margin-left: 15px;
-  margin-right: 15px;
+  margin-right: 10px;
 }
 .site-menu {
   list-style: none;
