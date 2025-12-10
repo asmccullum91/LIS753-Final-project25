@@ -40,8 +40,7 @@ h2 {
   justify-content: space-around;
 }
 .home-image {
-  padding-left: 20px;
-  padding-right: 20px;
+  margin-right: 10px
 }
 .site-menu {
   list-style: none;
