@@ -37,11 +37,10 @@ h2 {
 }
 .book-series {
   display: flex;
-  justify-content: center;
+  justify-content: space-around;
 }
 .home-image {
   margin-right: 20px;
-  margin-left: 20px;
 }
 .site-menu {
   list-style: none;
