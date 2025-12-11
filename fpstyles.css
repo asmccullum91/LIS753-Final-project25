@@ -32,7 +32,7 @@ h2 {
   font-family: courier new 
 }
 p {
-  font-family: Trebuchet MS
+  font-family: Trebuchet MS;
 }
 .book-series {
   display: flex;
