@@ -78,7 +78,6 @@ margin-right: 0px;
 .site-menu {
   list-style: none;
   padding-top: 10px;
-  width: 200px;
 }
 .center-list {
   text-align: center;
@@ -95,7 +94,7 @@ margin-right: 0px;
   margin-top: 50px;
   font-family: Trebuchet MS;
   font-size: 15px;
-  color: #d7d703;
+  border-color: #d7d703;
   border-top-style: solid;
 }
 iframe {
