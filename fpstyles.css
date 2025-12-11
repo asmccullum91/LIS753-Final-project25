@@ -17,7 +17,7 @@ body {
   padding-left: 5px;
   font-size: 20px;
 }
-@media all and (min-width: 391px) {
+@media all and (min-width: 400px) {
 .site-nav {
   display: flex;
   justify-content: space-around;
@@ -66,12 +66,14 @@ p {
   font-size: 20px;
 }
 .book-series {
-  display: flex;
-  justify-content: center;
-  font-family: Trebuchet MS;
-  font-size: 20px;
   max-width: 100%;
   height: auto;
+}
+@media all and (min-width: 400px) {
+  .book-series {
+    display: flex;
+    justify-content: center;
+  }
 }
 .home-image {
   margin-right: 10px;
@@ -98,6 +100,7 @@ iframe {
   list-style-type: none;
   font-size: 20px;
   color: #ffffff;
+  font-family: Trebuchet MS;
 }
 .interior-image {
   float: right;
